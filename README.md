@@ -1,4 +1,4 @@
-# GSoC 2025 — ArtExtract Evaluation Tasks
+# GSoC 2026 — ArtExtract Evaluation Tasks
 ## HumanAI Umbrella Organization
 
 This repository contains solutions for the ArtExtract GSoC 2025 evaluation tasks.
@@ -46,4 +46,5 @@ humanAI artextract/
 ```
 
 ### Author
-Nisha Goswami — GSoC 2025 Applicant
+Nisha Goswami — GSoC 2026 Applicant
+
